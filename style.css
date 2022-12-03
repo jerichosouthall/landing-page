@@ -68,6 +68,7 @@
     margin-top: -45px;
     border-radius: 5px;
     font-size: 16px;
+    color: white;
 }
 
 .placeholderimg {
@@ -190,6 +191,7 @@
     margin-left: 30%;
     margin-right: 10%;
     font-size: 16px;
+    color: white;
 }
 
 .footer {
@@ -198,4 +200,5 @@
     align-items: center;
     justify-content: center;
     padding: 2% 0;
+    color: white;
 }
